@@ -1,0 +1,6 @@
+You: goodmorning
+Bot: Hello! How can I assist you today?
+
+You: knee injury
+Bot: Include foods rich in vitamin C (citrus fruits, bell peppers), collagen (bone broth, chicken), and omega-3 fatty acids (flaxseeds, walnuts) to promote tissue repair and reduce swelling.
+
